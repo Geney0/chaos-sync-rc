@@ -1,0 +1,17 @@
+# Python 虚拟环境
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 实验输出（可重新生成，不传）
+output/*.csv
+
+# 杂项
+*.log
+.DS_Store
